@@ -1,0 +1,144 @@
+body{
+  font-family: kanit;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+}
+h1{
+  font-size: 64px;
+  text-align: center;
+}
+h2{
+  font-size: 40px;
+  text-align: center;
+}
+h3{
+  font-size: 28px;
+  text-align: center;
+}
+span{
+  background-color: #010101;
+  color: #FAF300;
+  border: #C5AB7B solid 4px;
+  padding: 2px 4px 2px 4px;
+}
+table{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border-spacing: 6px 10px;
+}
+.rankyello{
+  font-size: 32px;
+  background-color: #FAF300;
+  color: black;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.team{
+  font-size: 28px;
+  background-color: #FAF300;
+  color: black;
+  text-align: start;
+  padding-left: 16px;
+}
+.match
+{
+  font-size: 32px;
+  background-color: #FAF300;
+  color: black;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.winlose{
+  font-size: 32px;
+  background-color: #FAF300;
+  color: black;
+  padding: 2px 12px;
+  width: 80px;
+  text-align: center;
+}
+.texttd{
+  text-align: center;
+}
+.logo{
+  width: 150px;
+  margin: auto;
+  padding-top: 40px;
+  display: block;
+}
+.gd
+{
+  font-size: 32px;
+  background-color: #FAF300;
+  color: black;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.point{
+  font-size: 32px;
+  background-color: #FF9800;
+  color: black;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.rankblack{
+  font-size: 32px;
+  background-color: #010101;
+  color: white;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.team1{
+  font-size: 28px;
+  background-color: #010101;
+  color: white;
+  text-align: start;
+  padding-left: 16px;
+}
+.match1
+{
+  font-size: 32px;
+  background-color: #010101;
+  color: white;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.winlose1{
+  font-size: 32px;
+  background-color: #010101;
+  color: white;
+  padding: 2px 12px;
+  width: 80px;
+  text-align: center;
+}
+.gd1
+{
+  font-size: 32px;
+  background-color: #010101;
+  color: white;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.point1{
+  font-size: 32px;
+  background-color: #010101;
+  color: white;
+  padding: 2px 12px;
+  width: 40px;
+  text-align: center;
+}
+.sponsors {
+  text-align: center;
+  margin-top: 20px;
+}
+.sponsors img {
+  height: 40px;
+  margin: 0 10px;
+}
